@@ -29,19 +29,6 @@ I’m a Machine Learning Engineer and builder with a full-stack background and a
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages & Tools:**  
-`Python` | `JavaScript` | `React` | `FastAPI` | `Node.js` | `Docker` | `AWS` | `MongoDB` | `SQL`
-
-**ML & Data:**  
-`PyTorch` | `TensorFlow` | `Hugging Face` | `XGBoost` | `Scikit-learn` | `Apache Spark` | `Pandas` | `Feast`
-
-**Other Tools:**  
-`Figma` | `Android Studio` | `Linux` | `Bash` | `GitHub Actions` | `OpenCV` | `Wireshark`
-
----
-
 ### 🧩 Projects & Experience
 
 #### 🧠 [ApexKrieg](https://apexkrieg.com) — *Founder & Developer*  
@@ -69,13 +56,6 @@ Worked on fast-paced web and mobile app development during the post-TikTok ban b
 
 **MSc in Physics** — West Bengal State University (partial)  
 *Left to dive head-first into AI & ML.*
-
----
-
-### 🏅 Certifications
-
-I hold several certifications in ML and AI. View them on my  
-👉 [LinkedIn Profile](https://www.linkedin.com/in/bidhideb/)
 
 ---
 
