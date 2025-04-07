@@ -51,10 +51,10 @@ Worked on fast-paced web and mobile app development during the post-TikTok ban b
 
 ### 🎓 Education
 
-**BSc in Physics (Hons)** — Acharya Prafulla Chandra College  
+**BSc in Physics (Hons)** 
 *Minor in Computer Science & Mathematics*
 
-**MSc in Physics** — West Bengal State University (partial)  
+**MSc in Physics** — (partial)  
 *Left to dive head-first into AI & ML.*
 
 ---
