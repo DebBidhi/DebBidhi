@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://x.com/bidhe_kun"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=flat&logo=x&logoColor=white" alt="X Badge" /></a>
   <a href="https://www.linkedin.com/in/bidhideb/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/debBidhi"><img src="https://img.shields.io/github/followers/debBidhi?label=GitHub&style=social" /></a>
   <a href="mailto:bidhideb@apexkrieg.com"><img src="https://img.shields.io/badge/Email-bidhideb@apexkrieg.com-blue.svg" /></a>
