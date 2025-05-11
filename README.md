@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bidhideb Ghosh (Bidhé) 👋</h1>
 
 <p align="center">
-  <i>Machine Learning Engineer | Founder at <a href="https://apexkrieg.com">ApexKrieg</a> | Full-Stack Dev with a Physics Brain</i>
+  <i>Machine Learning Engineer | Ex-Founder at <a href="https://apexkrieg.fly.dev/">ApexKrieg</a> </i>
 </p>
 
 <p align="center">
