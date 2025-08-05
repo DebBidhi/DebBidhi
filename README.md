@@ -29,26 +29,6 @@ I’m a Machine Learning Engineer and builder with a full-stack background and a
 
 ---
 
-### 🧩 Projects & Experience
-
-#### 🧠 [ApexKrieg](https://apexkrieg.com) — *Founder & Developer*  
-**2024 – Present**  
-Built from scratch, ApexKrieg is a productivity companion powered by AI. It helps you realign tasks and goals based on your digital activity.
-
-#### 🧠 Self-Employed — *Machine Learning Engineer*  
-**2023 – Present**  
-Diving deep into LLMs and neural nets, I’ve built smart systems that learn fast and solve real-world challenges. My background in physics makes the math second nature.
-
-#### 🧠 Adapted Brains — *Freelance Engineer*  
-**2022 – 2023**  
-Led dev efforts for multiple startups, acting as a "CTO as a Service". Managed small teams, built scalable systems, and shipped across the stack.
-
-#### 🧠 Full Stack Dev (Freelancer)  
-**2020 – 2022**  
-Worked on fast-paced web and mobile app development during the post-TikTok ban boom in India. From mockups to deployment, I’ve worn every hat.
-
----
-
 ### 🎓 Education
 
 **BSc in Physics (Hons)** 
